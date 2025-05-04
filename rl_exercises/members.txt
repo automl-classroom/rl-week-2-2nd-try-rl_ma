@@ -1,0 +1,3 @@
+member 1: Maximilian Arling
+member 2: Matthis Vosberg 
+member 3: Tiziano Humpert
