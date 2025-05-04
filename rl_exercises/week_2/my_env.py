@@ -7,6 +7,7 @@ import numpy as np
 
 
 # ------------- TODO: Implement the following environment -------------
+## Matthis, Tiziano, Maxi
 class MyEnv(gym.Env):
     """
     Simple 2-state, 2-action environment with deterministic transitions.
